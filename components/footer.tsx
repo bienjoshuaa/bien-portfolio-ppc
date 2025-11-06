@@ -18,7 +18,7 @@ export default function Footer() {
           <p className="text-slate-400">© {currentYear} Bien Joshua Macuha. All rights reserved.</p>
           <div className="flex items-center gap-6">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/bien-joshua-macuha-331150353/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-blue-400 transition-colors text-sm"
